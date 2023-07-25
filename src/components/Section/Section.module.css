@@ -1,0 +1,11 @@
+.section {
+    margin-bottom: 20px;
+}
+
+.section h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
